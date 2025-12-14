@@ -13,4 +13,5 @@ then
 7. operations_in_python
 8. numerical_operations_on_list_elements
 9. nested_lists
-10. 
+10. tuple_intro
+11. Basic_operations_of_tuple
