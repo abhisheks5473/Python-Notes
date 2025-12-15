@@ -16,4 +16,7 @@ then
 10. tuple_intro
 11. Basic_operations_of_tuple
 12. Mutability
-13. 
+13. sets_in_python
+14. operations_in_sets
+15. frozen_sets
+16. 
