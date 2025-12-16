@@ -19,4 +19,8 @@ then
 13. sets_in_python
 14. operations_in_sets
 15. frozen_sets
-16. 
+16. dictionaries
+17. operation_on_dict
+18. shallow_deep_copy
+19. for
+20. 
